@@ -1,8 +1,5 @@
-""" A .py file containing useful functions for performing coastal engineering calculations.
-
-A huge thank you to Zoe, https://github.com/zam7, for letting me addher functions to this file.
-
-"""
+#A .py file containing useful functions for performing coastal engineering calculations.
+#A huge thank you to Zoe, https://github.com/zam7, for letting me add her functions to this file.
 
 from aide_design.play import*
 g = pc.gravity
