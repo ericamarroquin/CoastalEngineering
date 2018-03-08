@@ -5,6 +5,7 @@
 ```python
 from aide_design.play import*
 import CoastalFunctions as CF #a file i made to keep track of all functions
+import pypandoc
 ```
 
 ### Question 1a
@@ -118,4 +119,4 @@ $$\overline{{E_1}^+} {C_g}_1 B_1= \overline{{E_2}^+} {C_g}_2 B_2$$
 $$\frac{1}{2} \rho g {A_1}^2 B_1 = \frac{1}{2} \rho g {A_2}^2 B_2$$
 $$\frac{{A_1}^2}{{A_2}^2} = \frac{B_2}{B_1}$$
 The wave amplitude, $A_2$, where the channel width is $B_2$ is
-$$A_2 = A_1 \sqrt{\frac{B_2}{B_1}}
+$$A_2 = A_1 \sqrt{\frac{B_2}{B_1}}$$
